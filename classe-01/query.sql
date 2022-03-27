@@ -13,6 +13,6 @@ CREATE TABLE usuarios (
     nome text,
     idade integer,
     email varchar(80),
-    senha(8)
+    senha varchar(8)
 )
 -- campos e tipos de dados 
